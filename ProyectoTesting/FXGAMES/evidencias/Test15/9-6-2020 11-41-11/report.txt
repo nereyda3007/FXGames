@@ -1,0 +1,8 @@
+[9/6/2020 11:41:21] - INFO - OK - Paso 1 => Acceder a la pantalla de perfil pulsando el icono del avatar arriba a la derecha
+[9/6/2020 11:41:21] - INFO - OK - Paso 2 => Se introduce en el campo email nereyda3007@hotmail.com
+[9/6/2020 11:41:22] - INFO - OK - Paso 3 => Se introduce en el campo password Dnmx75f2
+[9/6/2020 11:41:23] - INFO - OK - Paso 4 => Se pulsa en el botón Iniciar Sesión.
+[9/6/2020 11:41:25] - INFO - OK - Paso 5 => Se pulsa en en menú de la cabecera Administrador y en el submenú Administración.
+[9/6/2020 11:41:25] - INFO - OK - Paso 6 => Se introduce los datos del Número de ofertas: 10 y Porcentaje de descuento: 5 en el primer formulario.
+[9/6/2020 11:41:27] - INFO - OK - Paso 7 => Se pulsa en el botón Generar ofertas.
+[9/6/2020 11:41:27] - INFO - OK - Resultado => Test OK. 

@@ -1,0 +1,5 @@
+[9/6/2020 11:38:06] - INFO - OK - Paso 1 => Acceder a la pantalla de perfil pulsando el icono del avatar arriba a la derecha
+[9/6/2020 11:38:06] - INFO - OK - Paso 2 => Se introduce en el campo email pepitotoronto@gmail.com
+[9/6/2020 11:38:07] - INFO - OK - Paso 3 => Se introduce en el campo password fxgtesting
+[9/6/2020 11:38:08] - INFO - OK - Paso 4 => Se pulsa en el botón Iniciar Sesión.
+[9/6/2020 11:38:09] - INFO - OK - Resultado => Test OK. Usuario o contraseña incorrectos. Por favor, verifique sus datos o proceda a registrarse.

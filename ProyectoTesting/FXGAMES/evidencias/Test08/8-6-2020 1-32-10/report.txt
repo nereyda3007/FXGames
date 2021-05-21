@@ -1,0 +1,2 @@
+[8/6/2020 1:32:20] - INFO - OK - Paso 1 => Se pulsa la opción Videojuegos del menú. En el submenú pulsamos la opción Juegos para VITA
+[8/6/2020 1:32:20] - INFO - OK - Resultado => Test OK. 

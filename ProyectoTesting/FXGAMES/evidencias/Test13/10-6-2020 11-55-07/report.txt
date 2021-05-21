@@ -1,0 +1,9 @@
+[10/6/2020 11:55:17] - INFO - OK - Paso 1 => Acceder a la pantalla de perfil pulsando el icono del avatar arriba a la derecha
+[10/6/2020 11:55:17] - INFO - OK - Paso 2 => Se introduce en el campo email pruebasfxg@gmail.com
+[10/6/2020 11:55:18] - INFO - OK - Paso 3 => Se introduce en el campo password fxgtesting
+[10/6/2020 11:55:19] - INFO - OK - Paso 4 => Se pulsa en el botón Iniciar Sesión.
+[10/6/2020 11:55:20] - INFO - OK - Paso 5 => Se pulsa en Editar datos personales
+[10/6/2020 11:55:21] - INFO - OK - Paso 6 => Se rellenan los campos a modificar y el campo contraseña actual que es obligatorio.
+Nombre: (Cadena aleatoria)
+[10/6/2020 11:55:22] - INFO - OK - Paso 7 => Se pulsa en el botón Editar Perfil.
+[10/6/2020 11:55:22] - INFO - OK - Resultado => Test OK. 

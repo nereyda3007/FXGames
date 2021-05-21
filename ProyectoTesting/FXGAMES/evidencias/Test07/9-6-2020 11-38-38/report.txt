@@ -1,0 +1,9 @@
+[9/6/2020 11:38:48] - INFO - OK - Paso 1 => Se pulsa en el enlace Contacto del footer.
+[9/6/2020 11:38:50] - INFO - OK - Paso 2 => Se rellenan los campos marcados con asterisco que son obligatorios
+Asunto: Prueba
+Nombre: Lorena
+Apellido: Pérez
+Correo electrónico: pruebasfxg@gmail.com
+Asunto del mensaje: prueba
+[9/6/2020 11:38:52] - INFO - OK - Paso 3 => Se pulsa en el botón Enviar.
+[9/6/2020 11:38:52] - INFO - OK - Resultado => Test OK. Su consulta se ha registrado correctamente. En breve, tramitaremos su solucitud. Gracias.

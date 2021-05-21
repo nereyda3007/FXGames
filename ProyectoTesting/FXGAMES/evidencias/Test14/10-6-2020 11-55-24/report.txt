@@ -1,0 +1,9 @@
+[10/6/2020 11:58:17] - INFO - OK - Paso 1 => Acceder a la pantalla de perfil pulsando el icono del avatar arriba a la derecha
+[10/6/2020 11:58:17] - INFO - OK - Paso 2 => Se introduce en el campo email nereyda3007@hotmail.com
+[10/6/2020 11:58:18] - INFO - OK - Paso 3 => Se introduce en el campo password Dnmx75f2
+[10/6/2020 11:58:55] - INFO - OK - Paso 4 => Se pulsa en el botón Iniciar Sesión.
+[10/6/2020 11:59:48] - INFO - OK - Paso 5 => Se pulsa en en menú de la cabecera Administrador y en el submenú Administración.
+[10/6/2020 11:59:48] - INFO - OK - Paso 6 => Se pulsa en Permisos de administrador
+[10/6/2020 11:59:49] - INFO - OK - Paso 7 => Se introduce el email del usuario al que se dará el permiso.
+[10/6/2020 12:00:31] - INFO - OK - Paso 8 => Se pulsa el botón Dar permisos.
+[10/6/2020 12:00:31] - INFO - OK - Resultado => Test OK. 

@@ -1,0 +1,5 @@
+[9/6/2020 11:37:52] - INFO - OK - Paso 1 => Acceder a la pantalla de perfil pulsando el icono del avatar arriba a la derecha
+[9/6/2020 11:37:53] - INFO - OK - Paso 2 => Se introduce en el campo email pruebasfxg@gmail.com
+[9/6/2020 11:37:53] - INFO - OK - Paso 3 => Se introduce en el campo password fxgtesting
+[9/6/2020 11:37:55] - INFO - OK - Paso 4 => Se pulsa en el botón Iniciar Sesión.
+[9/6/2020 11:37:55] - INFO - OK - Resultado => Test OK. 

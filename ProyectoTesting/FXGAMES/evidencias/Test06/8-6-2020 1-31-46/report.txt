@@ -1,0 +1,2 @@
+[8/6/2020 1:31:55] - INFO - OK - Paso 1 => Se introduce en el buscador la palabra Mario y se pulsa intro
+[8/6/2020 1:31:56] - INFO - OK - Resultado => Test OK. Se han encontrado resultados para la búsqueda

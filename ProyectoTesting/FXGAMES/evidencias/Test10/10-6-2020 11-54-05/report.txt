@@ -1,0 +1,4 @@
+[10/6/2020 11:54:15] - INFO - OK - Paso 1 => Se pulsa la opción Videojuegos del menú. En el submenú pulsamos la opción Juegos para VITA
+[10/6/2020 11:54:16] - INFO - OK - Paso 2 => Se pulsa en Género y en el submenú se selecciona Lucha
+[10/6/2020 11:54:18] - INFO - OK - Paso 3 => Se pulsa en la imagen del producto One Piece Burning Blood
+[10/6/2020 11:54:18] - INFO - OK - Resultado => Test OK. 

@@ -1,0 +1,9 @@
+[8/6/2020 1:34:50] - INFO - OK - Paso 1 => Acceder a la pantalla de perfil pulsando el icono del avatar arriba a la derecha
+[8/6/2020 1:34:51] - INFO - OK - Paso 2 => Se introduce en el campo email nereyda3007@hotmail.com
+[8/6/2020 1:34:52] - INFO - OK - Paso 3 => Se introduce en el campo password Dnmx75f2
+[8/6/2020 1:34:54] - INFO - OK - Paso 4 => Se pulsa en el botón Iniciar Sesión.
+[8/6/2020 1:34:55] - INFO - OK - Paso 5 => Se pulsa en en menú de la cabecera Administrador y en el submenú Administración.
+[8/6/2020 1:34:56] - INFO - OK - Paso 6 => Se introduce el nombre del producto Super Mario Party y el porcentaje 10  en el tercer formulario.
+[8/6/2020 1:34:57] - INFO - OK - Paso 7 => Se pulsa en el botón Buscar
+[8/6/2020 1:34:59] - INFO - OK - Paso 8 => Se pulsa en el botón Confirmar
+[8/6/2020 1:35:00] - INFO - OK - Resultado => Test OK. 

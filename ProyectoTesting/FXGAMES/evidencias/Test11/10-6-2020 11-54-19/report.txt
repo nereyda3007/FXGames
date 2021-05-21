@@ -1,0 +1,11 @@
+[10/6/2020 11:54:28] - INFO - OK - Paso 1 => Acceder a la pantalla de perfil pulsando el icono del avatar arriba a la derecha
+[10/6/2020 11:54:29] - INFO - OK - Paso 2 => Se introduce en el campo email pruebasfxg@gmail.com
+[10/6/2020 11:54:30] - INFO - OK - Paso 3 => Se introduce en el campo password fxgtesting
+[10/6/2020 11:54:32] - INFO - OK - Paso 4 => Se pulsa en el botón Iniciar Sesión.
+[10/6/2020 11:54:34] - INFO - OK - Paso 5 => Se pulsa la opción Videojuegos del menú. En el submenú pulsamos la opción Juegos para VITA
+[10/6/2020 11:54:35] - INFO - OK - Paso 6 => Se pulsa en Género y en el submenú se selecciona Lucha
+[10/6/2020 11:54:37] - INFO - OK - Paso 7 => Se pulsa en la imagen del producto One Piece Burning Blood
+[10/6/2020 11:54:38] - INFO - OK - Paso 8 => Se pulsa en el botón Añadir a la cesta
+[10/6/2020 11:54:40] - INFO - OK - Paso 9 => Se pulsa en el botón Ir a la cesta
+[10/6/2020 11:54:42] - INFO - OK - Paso 10 => Se pulsa el botón Tramitar pedido
+[10/6/2020 11:54:42] - INFO - OK - Resultado => Test OK. 
